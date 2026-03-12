@@ -1,0 +1,72 @@
+#Example Output
+Please enter your first name: <Mojo>
+Hi, Mojo! Welcome to my calorie and protein tracker!
+
+Enter your weight in pounds: <175>
+Enter your height in inches: <71>
+Enter your sex ('M' or 'F'): <M>
+Enter your age: <23>
+
+
+Please select one of the options for your activity level:
+1. Sedentary (little to no exercise).
+2. Lightly active (light exercise 1-3 days a week).
+3. Moderately active (moderate exercise 3-5 days a week).
+4. Very active (hard exercise 6-7 days a week).
+<2>
+
+
+Please select one of the following options for your diet goal:
+1. Hard cut.
+2. Light cut.
+3. Maintenance.
+4. Light bulk.
+5. Hard bulk.
+<3>
+
+
+
+
+Now please enter all the food you ate today:
+Please enter the calorie count for food item 1: <232>
+Please enter the protein count (in grams) for food item 1: <30.3>
+Do you have any more food to enter? (Y/N): <Y>
+
+
+Please enter the calorie count for food item 2: <820>
+Please enter the protein count (in grams) for food item 2: <69.5>
+Do you have any more food to enter? (Y/N): <Y>
+
+
+Please enter the calorie count for food item 3: <820>
+Please enter the protein count (in grams) for food item 3: <69.5>
+Do you have any more food to enter? (Y/N): <N>
+
+
+
+
+
+
+Fitness information for the day for Mojo
+------------------------------------------------------
+
+Weight:                                        175 lbs
+Height:                                         71 in
+Gender:                                          M
+Age:                                            23
+Diet Goal:                             maintenance
+------------------------------------------------------
+
+Ideal Caloric Intake:                         2366-2615 cals
+Ideal Protein Intake:                          126-154 g
+Actual Caloric Intake:                        1872 cals
+Actual Protein Intake:                         169 g
+------------------------------------------------------
+
+You're a bit under your calorie goal today.
+Try adding a nutitious snack to meet your goal!
+
+You went a bit over your protein goal today.
+No worries! Your body can handle extra protein, just try to balance it with other nutrients!
+
+Note: This is just a recommendation, not medical advice. Make sure to pay attention to your body and talk with your doctor!
