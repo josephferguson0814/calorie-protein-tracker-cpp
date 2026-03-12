@@ -1,13 +1,15 @@
-#Project Name
+Project Name:
 
 Calorie and Protein Tracker (C++)
 Note: This project was created as part of an Intro to Computer Science course.
 
-#Description
+
+Description:
 
 A console-based program that calculates recommended calorie and protein intake based on user metrics and tracks daily food intake.
 
-#Features
+
+Features:
 
 -Calculates BMR using the Mifflin-St Jeor equation
 
@@ -31,7 +33,8 @@ A console-based program that calculates recommended calorie and protein intake b
 
 -Displays a formatted daily fitness report
 
-#Technologies
+
+Technologies:
 
 C++
 
